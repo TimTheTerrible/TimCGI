@@ -1,0 +1,8 @@
+= TimCGI
+
+A perl library that provides a basic CGI framework
+
+== Features
+* Based on TimApp
+* Interfaces with TimUtil and TimDB
+
